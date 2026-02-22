@@ -1,0 +1,13 @@
+{
+  "name": "telegram-downloader-bot",
+  "version": "1.0.0",
+  "description": "SoundCloud Telegram Downloader Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
